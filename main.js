@@ -11,7 +11,7 @@ client.on('messageCreate', (message) => {
     message.markSeen();
 
     if(message.content.toLowerCase().includes('hi')){ 
-        return message.chat.sendMessage('VENOM IS MY DEVELOPER CHECK OUT HIS CHANNEL :- https://youtube.com/c/VenomExE');
+        return message.chat.sendMessage('CHEY IS MY DEVELOPER CHECK OUT HIS INSTAGRAM :- https://www.instagram.com/its_chey7?igsh=Ymx2a2Fydmp3MTVi');
     } else
     chatbot(`https://brv-chat.vercel.app/api?message=${encodeURIComponent(message.content)}`)
     .then(res => res.json())
