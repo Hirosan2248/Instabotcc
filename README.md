@@ -9,7 +9,7 @@
 
 [CLICK ME TO WATCH THE VIDEO ON HOW TO SETUP](https://youtube.com/c/VenomExE)
 ```js
-1) COPY THIS LINK :- https://github.com/venom-exe/insta-chatbot
+1) COPY THIS LINK :- https://github.com/Hirosan2248/Instabotcc
 2) GOTO https://replit.com
 3) CREATE A ACCOUNT.
 4) CLICK ON + ICON ALSO KNOWN AS NEW REPL OR CREATE NEW REPL & CLICK IMPORT FROM GITHUB AND PASTE THE GITHUB LINK FROM STEP 1 & HIT ENTER.
